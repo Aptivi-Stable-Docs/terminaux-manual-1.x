@@ -4,10 +4,6 @@ description: Welcome to Terminaux!
 
 # 👋 Welcome!
 
-{% hint style="info" %}
-Terminaux 2.0 is currently under development. You're invited to try this version out by compiling from source!
-{% endhint %}
-
 Welcome to Terminaux! It's a library that allows you to manipulate with the console. It includes features incorporated with the libraries that manipulated with the console.
 
 To use this library, go to any page in the left side of the screen.
